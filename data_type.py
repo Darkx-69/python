@@ -1,0 +1,10 @@
+a=10
+print(a)
+b=complex(8,2)
+print(b)
+listc=[8,4,3,a,4,5]
+print(listc)
+tuple1={2,4,34}
+print(tuple1)
+dictd={"name":"Aman","age":19,"Vote":"Yes"}
+print(dictd)
